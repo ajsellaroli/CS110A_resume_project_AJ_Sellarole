@@ -52,3 +52,6 @@ ul {
 .no-gap {
   margin-bottom: 0;
 }
+.no_top_gap {
+  margin-top: 0;
+}
